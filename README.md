@@ -1,6 +1,8 @@
 # Python-Encryption-Tool
 This is a Python script for encrypting files using Marshal, Zlib, and Base64.b85 encoding.
 
+![image](image.png)
+
 ## Features
 
 - Encryption of Python files using Marshal, Zlib, and Base64.b85 encoding.
